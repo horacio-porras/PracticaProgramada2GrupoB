@@ -5,6 +5,6 @@
 * Horacio Porras Marin
 
 <br>**2. Repositorio:**
-https://github.com/horacio-porras/PracticaProgramada1GrupoB
+https://github.com/horacio-porras/PracticaProgramada2GrupoB
 
 <br>**3. Especificación básica del proyecto:**
