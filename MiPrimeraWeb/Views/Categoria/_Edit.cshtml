@@ -1,0 +1,36 @@
+@model PracticaProgramada2BLL.Dtos.CategoriaDto;
+
+<div class="modal fade" id="modalEditarCategoria" tabindex="-1" aria-labelledby="modalEditarCategoriaLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="modalEditarCategoriaLabel">Editar Categoría</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form id="formEditarCategoria" asp-action="ActualizarCategoria" asp-controller="Categoria">
+                    <input type="hidden" asp-for="Id" id="CategoriaId" name="Id" />
+                    <div class="mb-3">
+                        <label for="Nombre" class="form-label">Nombre</label>
+                        <input type="text" class="form-control" id="NombreEdit" name="Nombre" required />
+                    </div>
+                    <div class="mb-3">
+                        <label for="Descripcion" class="form-label">Descripción</label>
+                        <input type="text" class="form-control" id="DescripcionEdit" name="Descripcion" />
+                    </div>
+                    <div class="mb-3">
+                        <label for="ActivoEdit" class="form-label">Activo</label>
+                        <select class="form-select" id="ActivoEdit" name="Activo">
+                            <option value="1">Sí</option>
+                            <option value="0">No</option>
+                        </select>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                <button type="button" class="btn btn-primary" id="btnEditarCategoria">Editar Categoría</button>
+            </div>
+        </div>
+    </div>
+</div>

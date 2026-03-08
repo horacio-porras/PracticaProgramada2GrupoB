@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MiPrimeraWeb/PracticaProgramada2.csproj" />
+  <Project Path="MiPrimeraWebDAL/PracticaProgramada2DAL.csproj" />
+  <Project Path="MiPrimeWebBLL/PracticaProgramada2BLL.csproj" />
+</Solution>

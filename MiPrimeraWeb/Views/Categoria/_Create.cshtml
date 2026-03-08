@@ -1,0 +1,36 @@
+@model PracticaProgramada2BLL.Dtos.CategoriaDto;
+
+<div class="modal fade" id="modalCrearCategoria" tabindex="-1" aria-labelledby="modalCrearCategoriaLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="modalCrearCategoriaLabel">Crear Categoría</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form id="formCrearCategoria" asp-action="AgregarCategoria" asp-controller="Categoria">
+                    <div class="mb-3">
+                        <label asp-for="Nombre" class="form-label">Nombre</label>
+                        <input asp-for="Nombre" type="text" class="form-control" id="Nombre" name="Nombre" required />
+                        <span asp-validation-for="Nombre" class="text-danger"></span>
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="Descripcion" class="form-label">Descripción</label>
+                        <input asp-for="Descripcion" type="text" class="form-control" id="Descripcion" name="Descripcion" />
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="Activo" class="form-label">Activo</label>
+                        <select asp-for="Activo" class="form-select" id="Activo" name="Activo">
+                            <option value="1">Sí</option>
+                            <option value="0">No</option>
+                        </select>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                <button type="button" class="btn btn-primary" id="btnGuardarCategoria">Guardar Categoría</button>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,32 @@
+@using PracticaProgramada2BLL.Dtos
+@model List<CategoriaDto>
+@{
+    ViewData["Title"] = "Categorías";
+}
+
+<h1>Lista de categorías</h1>
+
+<button type="button" class="btn btn-success" data-bs-toggle="modal" data-bs-target="#modalCrearCategoria">
+    Agregar Categoría
+</button>
+
+<table id="tblCategoria" class="table table-striped" style="width:100%">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nombre</th>
+            <th>Descripción</th>
+            <th>Activo</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody></tbody>
+</table>
+
+@await Html.PartialAsync("_Edit")
+@await Html.PartialAsync("_Create")
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script src="~/js/Categoria.js" asp-append-version="true"></script>
+}

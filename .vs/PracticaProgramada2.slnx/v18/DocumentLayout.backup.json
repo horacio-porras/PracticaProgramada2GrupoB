@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adria\\source\\repos\\MiPrimeraWeb-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF1606B-7264-6990-5BDC-0577086B3A38}|MiPrimeraWebDAL\\PracticaProgramada2DAL.csproj|c:\\users\\adria\\source\\repos\\miprimeraweb-master\\miprimerawebdal\\repositorios\\generico\\irepositoriogenerico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF1606B-7264-6990-5BDC-0577086B3A38}|MiPrimeraWebDAL\\PracticaProgramada2DAL.csproj|solutionrelative:miprimerawebdal\\repositorios\\generico\\irepositoriogenerico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF1606B-7264-6990-5BDC-0577086B3A38}|MiPrimeraWebDAL\\PracticaProgramada2DAL.csproj|c:\\users\\adria\\source\\repos\\miprimeraweb-master\\miprimerawebdal\\repositorios\\generico\\repositoriogenerico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF1606B-7264-6990-5BDC-0577086B3A38}|MiPrimeraWebDAL\\PracticaProgramada2DAL.csproj|solutionrelative:miprimerawebdal\\repositorios\\generico\\repositoriogenerico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51B51E6-9A1C-E9CB-E810-64407AC395CA}|MiPrimeraWeb\\PracticaProgramada2.csproj|c:\\users\\adria\\source\\repos\\miprimeraweb-master\\miprimeraweb\\middleware\\exceptionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51B51E6-9A1C-E9CB-E810-64407AC395CA}|MiPrimeraWeb\\PracticaProgramada2.csproj|solutionrelative:miprimeraweb\\middleware\\exceptionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51B51E6-9A1C-E9CB-E810-64407AC395CA}|MiPrimeraWeb\\PracticaProgramada2.csproj|c:\\users\\adria\\source\\repos\\miprimeraweb-master\\miprimeraweb\\wwwroot\\js\\categoria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A51B51E6-9A1C-E9CB-E810-64407AC395CA}|MiPrimeraWeb\\PracticaProgramada2.csproj|solutionrelative:miprimeraweb\\wwwroot\\js\\categoria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51B51E6-9A1C-E9CB-E810-64407AC395CA}|MiPrimeraWeb\\PracticaProgramada2.csproj|c:\\users\\adria\\source\\repos\\miprimeraweb-master\\miprimeraweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A51B51E6-9A1C-E9CB-E810-64407AC395CA}|MiPrimeraWeb\\PracticaProgramada2.csproj|solutionrelative:miprimeraweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51B51E6-9A1C-E9CB-E810-64407AC395CA}|MiPrimeraWeb\\PracticaProgramada2.csproj|c:\\users\\adria\\source\\repos\\miprimeraweb-master\\miprimeraweb\\wwwroot\\js\\producto.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A51B51E6-9A1C-E9CB-E810-64407AC395CA}|MiPrimeraWeb\\PracticaProgramada2.csproj|solutionrelative:miprimeraweb\\wwwroot\\js\\producto.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51B51E6-9A1C-E9CB-E810-64407AC395CA}|MiPrimeraWeb\\PracticaProgramada2.csproj|c:\\users\\adria\\source\\repos\\miprimeraweb-master\\miprimeraweb\\views\\categoria\\_create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A51B51E6-9A1C-E9CB-E810-64407AC395CA}|MiPrimeraWeb\\PracticaProgramada2.csproj|solutionrelative:miprimeraweb\\views\\categoria\\_create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944906DF-AC31-F366-3983-1E40E16FC151}|MiPrimeWebBLL\\PracticaProgramada2BLL.csproj|c:\\users\\adria\\source\\repos\\miprimeraweb-master\\miprimewebbll\\constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{944906DF-AC31-F366-3983-1E40E16FC151}|MiPrimeWebBLL\\PracticaProgramada2BLL.csproj|solutionrelative:miprimewebbll\\constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51B51E6-9A1C-E9CB-E810-64407AC395CA}|MiPrimeraWeb\\PracticaProgramada2.csproj|c:\\users\\adria\\source\\repos\\miprimeraweb-master\\miprimeraweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A51B51E6-9A1C-E9CB-E810-64407AC395CA}|MiPrimeraWeb\\PracticaProgramada2.csproj|solutionrelative:miprimeraweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51B51E6-9A1C-E9CB-E810-64407AC395CA}|MiPrimeraWeb\\PracticaProgramada2.csproj|c:\\users\\adria\\source\\repos\\miprimeraweb-master\\miprimeraweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A51B51E6-9A1C-E9CB-E810-64407AC395CA}|MiPrimeraWeb\\PracticaProgramada2.csproj|solutionrelative:miprimeraweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51B51E6-9A1C-E9CB-E810-64407AC395CA}|MiPrimeraWeb\\PracticaProgramada2.csproj|c:\\users\\adria\\source\\repos\\miprimeraweb-master\\miprimeraweb\\practicaprogramada2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A51B51E6-9A1C-E9CB-E810-64407AC395CA}|MiPrimeraWeb\\PracticaProgramada2.csproj|solutionrelative:miprimeraweb\\practicaprogramada2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944906DF-AC31-F366-3983-1E40E16FC151}|MiPrimeWebBLL\\PracticaProgramada2BLL.csproj|c:\\users\\adria\\source\\repos\\miprimeraweb-master\\miprimewebbll\\practicaprogramada2bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{944906DF-AC31-F366-3983-1E40E16FC151}|MiPrimeWebBLL\\PracticaProgramada2BLL.csproj|solutionrelative:miprimewebbll\\practicaprogramada2bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepositorioGenerico.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\MiPrimeraWeb-master\\MiPrimeraWebDAL\\Repositorios\\Generico\\RepositorioGenerico.cs",
+              "RelativeDocumentMoniker": "MiPrimeraWebDAL\\Repositorios\\Generico\\RepositorioGenerico.cs",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\MiPrimeraWeb-master\\MiPrimeraWebDAL\\Repositorios\\Generico\\RepositorioGenerico.cs",
+              "RelativeToolTip": "MiPrimeraWebDAL\\Repositorios\\Generico\\RepositorioGenerico.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T17:55:42.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IRepositorioGenerico.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\MiPrimeraWeb-master\\MiPrimeraWebDAL\\Repositorios\\Generico\\IRepositorioGenerico.cs",
+              "RelativeDocumentMoniker": "MiPrimeraWebDAL\\Repositorios\\Generico\\IRepositorioGenerico.cs",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\MiPrimeraWeb-master\\MiPrimeraWebDAL\\Repositorios\\Generico\\IRepositorioGenerico.cs",
+              "RelativeToolTip": "MiPrimeraWebDAL\\Repositorios\\Generico\\IRepositorioGenerico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T17:55:41.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExceptionResponse.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\MiPrimeraWeb-master\\MiPrimeraWeb\\Middleware\\ExceptionResponse.cs",
+              "RelativeDocumentMoniker": "MiPrimeraWeb\\Middleware\\ExceptionResponse.cs",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\MiPrimeraWeb-master\\MiPrimeraWeb\\Middleware\\ExceptionResponse.cs",
+              "RelativeToolTip": "MiPrimeraWeb\\Middleware\\ExceptionResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T17:55:23.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\MiPrimeraWeb-master\\MiPrimeraWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiPrimeraWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\MiPrimeraWeb-master\\MiPrimeraWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MiPrimeraWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-08T17:50:56.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Producto.js",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\MiPrimeraWeb-master\\MiPrimeraWeb\\wwwroot\\js\\Producto.js",
+              "RelativeDocumentMoniker": "MiPrimeraWeb\\wwwroot\\js\\Producto.js",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\MiPrimeraWeb-master\\MiPrimeraWeb\\wwwroot\\js\\Producto.js",
+              "RelativeToolTip": "MiPrimeraWeb\\wwwroot\\js\\Producto.js",
+              "ViewState": "AgIAALcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-08T17:50:10.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Categoria.js",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\MiPrimeraWeb-master\\MiPrimeraWeb\\wwwroot\\js\\Categoria.js",
+              "RelativeDocumentMoniker": "MiPrimeraWeb\\wwwroot\\js\\Categoria.js",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\MiPrimeraWeb-master\\MiPrimeraWeb\\wwwroot\\js\\Categoria.js",
+              "RelativeToolTip": "MiPrimeraWeb\\wwwroot\\js\\Categoria.js",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-08T17:50:00.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\MiPrimeraWeb-master\\MiPrimeraWeb\\Views\\Categoria\\_Create.cshtml",
+              "RelativeDocumentMoniker": "MiPrimeraWeb\\Views\\Categoria\\_Create.cshtml",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\MiPrimeraWeb-master\\MiPrimeraWeb\\Views\\Categoria\\_Create.cshtml",
+              "RelativeToolTip": "MiPrimeraWeb\\Views\\Categoria\\_Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-08T17:49:40.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Constantes.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\MiPrimeraWeb-master\\MiPrimeWebBLL\\Constantes.cs",
+              "RelativeDocumentMoniker": "MiPrimeWebBLL\\Constantes.cs",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\MiPrimeraWeb-master\\MiPrimeWebBLL\\Constantes.cs",
+              "RelativeToolTip": "MiPrimeWebBLL\\Constantes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T17:48:19.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\MiPrimeraWeb-master\\MiPrimeraWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MiPrimeraWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\MiPrimeraWeb-master\\MiPrimeraWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MiPrimeraWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-08T17:39:57.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\MiPrimeraWeb-master\\MiPrimeraWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "MiPrimeraWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\MiPrimeraWeb-master\\MiPrimeraWeb\\appsettings.json",
+              "RelativeToolTip": "MiPrimeraWeb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-08T17:23:27.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PracticaProgramada2.csproj",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\MiPrimeraWeb-master\\MiPrimeraWeb\\PracticaProgramada2.csproj",
+              "RelativeDocumentMoniker": "MiPrimeraWeb\\PracticaProgramada2.csproj",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\MiPrimeraWeb-master\\MiPrimeraWeb\\PracticaProgramada2.csproj",
+              "RelativeToolTip": "MiPrimeraWeb\\PracticaProgramada2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-08T17:02:30.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PracticaProgramada2BLL.csproj",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\MiPrimeraWeb-master\\MiPrimeWebBLL\\PracticaProgramada2BLL.csproj",
+              "RelativeDocumentMoniker": "MiPrimeWebBLL\\PracticaProgramada2BLL.csproj",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\MiPrimeraWeb-master\\MiPrimeWebBLL\\PracticaProgramada2BLL.csproj",
+              "RelativeToolTip": "MiPrimeWebBLL\\PracticaProgramada2BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-08T16:59:04.209Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+@using PracticaProgramada2BLL.Dtos
+@model List<ProductoDto>
+@{
+    ViewData["Title"] = "Productos";
+}
+
+<h1>Lista de productos</h1>
+
+<button type="button" class="btn btn-success" data-bs-toggle="modal" data-bs-target="#modalCrearProducto">
+    Agregar Producto
+</button>
+
+<table id="tblProducto" class="table table-striped" style="width:100%">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nombre</th>
+            <th>Descripción</th>
+            <th>Precio</th>
+            <th>Stock</th>
+            <th>Categoría</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody></tbody>
+</table>
+
+@await Html.PartialAsync("_Edit")
+@await Html.PartialAsync("_Create")
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script src="~/js/Producto.js" asp-append-version="true"></script>
+}
