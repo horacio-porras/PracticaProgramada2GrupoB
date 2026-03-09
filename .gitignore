@@ -1,0 +1,21 @@
+# Visual Studio workspace and user files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output folders
+**/[Bb]in/
+**/[Oo]bj/
+TestResults/
+
+# Common generated files
+*.cache
+*.pdb
+*.ilk
+*.log
+*.tmp
+*.temp
+*.db-shm
+*.db-wal
